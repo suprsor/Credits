@@ -1,9 +1,9 @@
-$magenta = "Magenta"
-$red = "Red"
+$greem = "Green"
+$blue = "Blue"
 $space = " " * 12  # Increased the number of spaces for more right alignment
 
-Write-Host "`n$space╭─────────────────────────────────────╮" -ForegroundColor $green
-Write-Host "$space│            SCAN COMPLETE            │" -ForegroundColor $green
+Write-Host "$space╭─────────────────────────────────────╮" -ForegroundColor $green
+Write-Host "$space│             Scan Complete           │" -ForegroundColor $green
 Write-Host "$space╰─────────────────────────────────────╯" -ForegroundColor $green
 
 Write-Host "$space╭─────────────────────────────────────╮" -ForegroundColor $blue
