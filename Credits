@@ -1,16 +1,11 @@
-# Define colors
 $green = "Green"
 $blue = "Blue"
-
-# Define space for alignment (12 spaces)
 $space = " " * 12  # Increased the number of spaces for more right alignment
 
-# Green section - Scan Complete
 Write-Host "$space╭─────────────────────────────────────╮" -ForegroundColor $green
 Write-Host "$space│             Scan Complete           │" -ForegroundColor $green
 Write-Host "$space╰─────────────────────────────────────╯" -ForegroundColor $green
 
-# Blue section - Social Media
 Write-Host "$space╭─────────────────────────────────────╮" -ForegroundColor $blue
 Write-Host "$space│Discord @Suprsors | Twitter @Suprsors│" -ForegroundColor $blue
 Write-Host "$space╰─────────────────────────────────────╯" -ForegroundColor $blue
