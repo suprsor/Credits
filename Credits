@@ -1,4 +1,4 @@
-$greem = "Green"
+$green = "Green"
 $blue = "Blue"
 $space = " " * 12  # Increased the number of spaces for more right alignment
 
